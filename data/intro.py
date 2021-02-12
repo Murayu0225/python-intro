@@ -7,7 +7,7 @@ if 100<=int(age):
   print("本当ですか？"+str(age)+"歳なんですね！")
 elif 20<=int(age):
   print(str(age)+"歳ですね！")
-elif 15==int(age):
+elif 17==int(age):
   print(str(age)+"歳なんですか！？")
   print("私と同い年ですね！")
 else:
